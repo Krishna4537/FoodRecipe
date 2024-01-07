@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfRecipeModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <RecipeModel>
+        <RecipeName>Mushroom Matar Masala Recipe</RecipeName>
+        <Ingredients>
+			
+				<Ingredient>
+					<Amount>1</Amount>
+					<Unit>tablespoon</Unit>
+					<Name>Red Chilli powder</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount>3</Amount>
+					<Unit>tablespoon</Unit>
+					<Name>Gram flour (besan)</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount>2</Amount>
+					<Unit>teaspoons</Unit>
+					<Name>Cumin seeds (Jeera)</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount>1</Amount>
+					<Unit>tablespoon</Unit>
+					<Name>Coriander Powder (Dhania)</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount>2</Amount>
+					<Unit>teaspoons</Unit>
+					<Name>Turmeric powder (Haldi)</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount>to taste</Amount>
+					<Unit></Unit>
+					<Name>Salt</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount>1</Amount>
+					<Unit>tablespoon</Unit>
+					<Name>Amchur (Dry Mango Powder)</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount>6</Amount>
+					<Unit>quantity</Unit>
+					<Name>Karela (Bitter Gourd/ Pavakkai) - deseeded</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount></Amount>
+					<Unit>as required</Unit>
+					<Name>Sunflower Oil</Name>
+				</Ingredient>
+				<Ingredient>
+					<Amount>1</Amount>
+					<Unit>quantity</Unit>
+					<Name>Onion - thinly sliced</Name>
+				</Ingredient>
+
+        </Ingredients>
+        <TotalTimeInMins>45</TotalTimeInMins>
+        <Instructions>
+            To begin making the Masala Karela Recipe, de-seed the karela and slice.
+            Do not remove the skin as the skin has all the nutrients.
+            Add the karela to the pressure cooker with 3 tablespoons of water, salt, and turmeric powder and pressure cook for three whistles.
+            Release the pressure immediately and open the lids. Keep aside.
+            Heat oil in a heavy-bottomed pan or a kadhai.
+            Add cumin seeds and let it sizzle. Once the cumin seeds have sizzled, add onions and sauté them until it turns golden brown in color.
+            Add the karela, red chilli powder, amchur powder, coriander powder, and besan. Stir to combine the masalas into the karela.
+            Drizzle a little extra oil on the top and mix again.
+            Cover the pan and simmer Masala Karela, stirring occasionally until everything comes together well.
+            Turn off the heat. Transfer Masala Karela into a serving bowl and serve.
+            Serve Masala Karela along with Panchmel Dal and Phulka for a weekday meal with your family.
+        </Instructions>
+        <Image-url>https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Pooja_Thakur/Karela_Masala_Recipe-4_1600.jpg</Image-url>
+        <Ingredient-count>10</Ingredient-count>
+    </RecipeModel>
+
+	<RecipeModel>
+        <RecipeName>Spicy Tomato Rice (Recipe)</RecipeName>
+        <Ingredients>
+            <Ingredient>2 teaspoon cashew - or peanuts</Ingredient>
+            <Ingredient>1/2 Teaspoon mustard</Ingredient>
+            <Ingredient>1 dry red chilli</Ingredient>
+            <Ingredient>1 teaspoon white urad dal</Ingredient>
+            <Ingredient>1 teaspoon chickpea lentils</Ingredient>
+            <Ingredient>salt - as per taste</Ingredient>
+            <Ingredient>1 green chilli</Ingredient>
+            <Ingredient>1-1/2 tablespoon oil</Ingredient>
+            <Ingredient>1/2 teaspoon asafoetida</Ingredient>
+            <Ingredient>1/2 teaspoon cumin seeds</Ingredient>
+            <Ingredient>3 teaspoons BC Belle Bhat powder</Ingredient>
+            <Ingredient>2-1/2 cups rice - cooked</Ingredient>
+            <Ingredient>3 tomatoes</Ingredient>
+        </Ingredients>
+        <TotalTimeInMins>15</TotalTimeInMins>
+        <Instructions>
+            To make tomato puliogere, first cut the tomatoes.
+            Now put in a mixer grinder and puree it.
+            Now heat oil in a pan.
+            After the oil is hot, add chana dal, urad dal, cashew, and let it cook for 10 to 20 seconds.
+            After 10 to 20 seconds, add cumin seeds, mustard seeds, green chillies, dry red chillies, and curry leaves.
+            After 30 seconds, add tomato puree to it and mix.
+            Add BC Belle Bhat powder, salt and mix it.
+            Allow cooking for 7 to 8 minutes and then turn off the gas.
+            Take it out in a bowl, add cooked rice and mix it.
+            Serve hot.
+            Serve tomato puliogre with tomato cucumber raita and papad for dinner.
+        </Instructions>
+        <Image-url>https://www.archanaskitchen.com/images/archanaskitchen/1-Author/b.yojana-gmail.com/Spicy_Thakkali_Rice_Tomato_Pulihora-1_edited.jpg</Image-url>
+        <Ingredient-count>12</Ingredient-count>
+    </RecipeModel>
+</ArrayOfRecipeModel>

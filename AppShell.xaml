@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="FoodRecipe.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:FoodRecipe"
+    xmlns:Pages="clr-namespace:FoodRecipe.Pages"
+    Shell.FlyoutBehavior="Flyout"
+    Title="FoodRecipe"
+    BackgroundColor="Orange">
+   
+
+    <ShellContent
+        Title="Recipes"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+    <ShellContent
+        Title="shoppinglist"
+        ContentTemplate="{DataTemplate Pages:ShoppingList}"
+        Route="ShoppingList" />
+    <ShellContent
+        Title="Settings"
+        ContentTemplate="{DataTemplate Pages:Settings}"
+        Route="Settings" />
+
+</Shell>
